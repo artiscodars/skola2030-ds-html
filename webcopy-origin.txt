@@ -1,0 +1,508 @@
+Uri: https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\npm\@popperjs\core@2.9.2\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\npm\bootstrap-icons@1.4.1\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\npm\bootstrap-icons@1.4.1\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/fonts/bootstrap-icons.woff?231ce25e89ab5804f9a6c427b8d325c9
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\npm\bootstrap-icons@1.4.1\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\npm\bootstrap@5.0.1\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.eot?t=1590207869815
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.svg?t=1590207869815
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.ttf?t=1590207869815
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.woff2?t=1590207869815
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.woff?t=1590207869815
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\npm\remixicon@2.5.0\fonts\remixicon.woff
+Content Type: font/woff
+
+Uri: https://code.jquery.com/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\bootstrap\4.0.0\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\bootstrap\4.0.0\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://skola2030.igstudija.lv/
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\index.htm
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/brandbook/
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\index.htm
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/brandbook/brand-book.pdf
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\brand-book.pdf
+Content Type: application/pdf
+
+Uri: https://skola2030.igstudija.lv/brandbook/ikonas.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\ikonas.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/aizliegtas-darbibas-2048x849.jpg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\aizliegtas-darbibas-2048x849.jpg
+Content Type: image/jpeg
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/balts-uz-peleka.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\balts-uz-peleka.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/ikonas.jpg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\ikonas.jpg
+Content Type: image/jpeg
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/lekes-uz-balta.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\lekes-uz-balta.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/logo-attalumi-1024x605.jpg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\logo-attalumi-1024x605.jpg
+Content Type: image/jpeg
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/logo-attalumi-w.jpg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\logo-attalumi-w.jpg
+Content Type: image/jpeg
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/logo-ne.jpg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\logo-ne.jpg
+Content Type: image/jpeg
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/logo-uz-balta-fona.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\logo-uz-balta-fona.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/logo-uz-bildes-2.jpg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\logo-uz-bildes-2.jpg
+Content Type: image/jpeg
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/logo-uz-bildes-2048x773.jpg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\logo-uz-bildes-2048x773.jpg
+Content Type: image/jpeg
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/logo-uz-fona.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\logo-uz-fona.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/logotips-un-sauklis-1024x699.jpg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\logotips-un-sauklis-1024x699.jpg
+Content Type: image/jpeg
+
+Uri: https://skola2030.igstudija.lv/brandbook/images/logotips-un-sauklis-h.jpg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\images\logotips-un-sauklis-h.jpg
+Content Type: image/jpeg
+
+Uri: https://skola2030.igstudija.lv/brandbook/krasas.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\krasas.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/brandbook/logo.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\logo.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/brandbook/Mape_Skola2030_logo.zip
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\Mape_Skola2030_logo.zip
+Content Type: application/zip
+
+Uri: https://skola2030.igstudija.lv/brandbook/RemixIcon_Fonts_v2.5.0 (1).zip
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\RemixIcon_Fonts_v2.5.0 (1).zip
+Content Type: application/zip
+
+Uri: https://skola2030.igstudija.lv/brandbook/RemixIcon_SVG_v2.5.0 (1).zip
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\RemixIcon_SVG_v2.5.0 (1).zip
+Content Type: application/zip
+
+Uri: https://skola2030.igstudija.lv/brandbook/teksti.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\brandbook\teksti.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://skola2030.igstudija.lv/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://skola2030.igstudija.lv/elementi_v3.xd
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\elementi_v3.xd
+Content Type: 
+
+Uri: https://skola2030.igstudija.lv/fancybox/dist/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fancybox\dist\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://skola2030.igstudija.lv/fancybox/dist/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fancybox\dist\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://skola2030.igstudija.lv/fancybox/docs/index.html
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fancybox\docs\index.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/fonts/fonts.zip
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\fonts.zip
+Content Type: application/zip
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-ExtraBold.eot?
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-ExtraBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-ExtraBold.svg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-ExtraBold.svg
+Content Type: image/svg+xml
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-ExtraBold.ttf
+Content Type: font/ttf
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-Light.eot
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-Light.eot?
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-Light.svg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-Light.ttf
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-Light.ttf
+Content Type: font/ttf
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-Light.woff
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-Light.woff
+Content Type: font/woff
+
+Uri: https://skola2030.igstudija.lv/fonts/Gilroy-Light.woff2
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Gilroy-Light.woff2
+Content Type: font/woff2
+
+Uri: https://skola2030.igstudija.lv/fonts/Lato-Regular.eot
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Lato-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://skola2030.igstudija.lv/fonts/Lato-Regular.eot?
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Lato-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://skola2030.igstudija.lv/fonts/Lato-Regular.svg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Lato-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://skola2030.igstudija.lv/fonts/Lato-Regular.ttf
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Lato-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://skola2030.igstudija.lv/fonts/Lato-Regular.woff
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Lato-Regular.woff
+Content Type: font/woff
+
+Uri: https://skola2030.igstudija.lv/fonts/Lato-Regular.woff2
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\fonts\Lato-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://skola2030.igstudija.lv/images/europe-fonds.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\images\europe-fonds.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/images/logo.svg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://skola2030.igstudija.lv/images/meitenes.jpg
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\images\meitenes.jpg
+Content Type: image/jpeg
+
+Uri: https://skola2030.igstudija.lv/index.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\index.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\index.htm
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/akordeoni.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\akordeoni.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/attelu-paraksti.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\attelu-paraksti.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/birkas.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\birkas.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/datu-ievades-ieteikumi.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\datu-ievades-ieteikumi.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/datu-ievades-laukums.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\datu-ievades-laukums.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/formas.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\formas.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/galerijas.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\galerijas.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/galvene.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\galvene.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/info-lodzini.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\info-lodzini.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/iscelu-poga.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\iscelu-poga.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/izcelts-teksts.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\izcelts-teksts.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/izlecosie-logi.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\izlecosie-logi.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/izlecosie-pazinojumi.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\izlecosie-pazinojumi.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/kajene.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\kajene.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/kartinas.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\kartinas.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/koks.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\koks.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/lapu-numeracija.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\lapu-numeracija.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/mapes.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\mapes.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/navigacija.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\navigacija.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/navigacijas-cels.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\navigacijas-cels.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/padomu-riki.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\padomu-riki.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/pazinojumi.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\pazinojumi.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/pogas.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\pogas.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/progresa-indikatori.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\progresa-indikatori.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/raksti.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\raksti.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/saraksti.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\saraksti.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/komponentes/tabulas.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\komponentes\tabulas.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/piemeri/
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\index.htm
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/piemeri/autorizacija.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\autorizacija.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/piemeri/images/klase-1.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\images\klase-1.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/piemeri/images/klase-2.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\images\klase-2.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/piemeri/images/klase-3.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\images\klase-3.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/piemeri/images/mape-1.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\images\mape-1.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/piemeri/images/mape-2.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\images\mape-2.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/piemeri/images/mape-3.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\images\mape-3.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/piemeri/images/mape-4.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\images\mape-4.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/piemeri/images/moodle-1.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\images\moodle-1.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/piemeri/images/moodle-2.png
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\images\moodle-2.png
+Content Type: image/png
+
+Uri: https://skola2030.igstudija.lv/piemeri/mana.skola2030.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\mana.skola2030.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/piemeri/mape.skola2030.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\mape.skola2030.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/piemeri/tavaklase.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri\tavaklase.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/piemeri_v2.xd
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\piemeri_v2.xd
+Content Type: 
+
+Uri: https://skola2030.igstudija.lv/style/style.css?v=202205311126
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\style\style.css
+Content Type: text/css
+
+Uri: https://skola2030.igstudija.lv/visparigi/
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\visparigi\index.htm
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/visparigi/ikonas.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\visparigi\ikonas.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/visparigi/izkartojums.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\visparigi\izkartojums.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/visparigi/krasas.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\visparigi\krasas.php.html
+Content Type: text/html
+
+Uri: https://skola2030.igstudija.lv/visparigi/tipografija.php
+File Name: C:\Downloaded Web Sites\skola2030.igstudija.lv\visparigi\tipografija.php.html
+Content Type: text/html
+

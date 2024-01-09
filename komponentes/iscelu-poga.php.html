@@ -1,0 +1,394 @@
+﻿<html>
+<head>
+<title>DIZAINA SISTĒMA</title>
+<meta charset="utf-8">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<link href="../npm/remixicon%402.5.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="../fancybox/dist/jquery.fancybox.min.css">
+<link href="../style/style.css?v=202205311126" rel="stylesheet">
+</head>
+<body onload="checkCookie()">
+<div class="left_menu">
+<div class="logo-holder">
+<a class="logo" href="../index.htm"><img src="../images/logo.svg"></a>
+<div class="system-title">
+<i class="bi bi-palette-fill"></i>
+<txt>DIZAINA SISTĒMA</txt>
+</div>
+</div>
+<div class="menu-holder-wrapper">
+<div class="menu-holder">
+<nav>
+<ul class="menu" id="menu">
+<li><a href="../index.htm" class="topnav "><i class="bi bi-play"></i> <txt>Ievads</txt></a></li>
+<li class="has-children">
+<span data-bs-toggle="collapse" data-bs-target="#brandbook" class="collapsed" aria-expanded="false"><i class="ri-book-3-line"></i>
+<txt>Zīmola grāmata</txt>
+</span>
+<ul id="brandbook" class="collapse " data-bs-parent="#menu">
+<li><a class="nav " href="../brandbook/index.htm">Par zīmola grāmatu</a></li>
+<li><a class="nav " href="../brandbook/logo.php.html">Logotips</a></li>
+<li><a class="nav " href="../brandbook/krasas.php.html">Krāsas</a></li>
+<li><a class="nav " href="../brandbook/teksti.php.html">Teksti</a></li>
+<li><a class="nav " href="../brandbook/ikonas.php.html">Ikonas</a></li>
+<li><a class="nav " href="/brandbook/elementi.php">Grafiskie elementi</a></li>
+</ul>
+</li>
+<li class="has-children">
+<span data-bs-toggle="collapse" data-bs-target="#visparigi" class="collapsed" aria-expanded="false"><i class="bi bi-laptop"></i>
+<txt>Vispārīgi</txt>
+</span>
+<ul id="visparigi" class="collapse " data-bs-parent="#menu">
+<li><a class="nav " href="../visparigi/index.htm">Ievads</a></li>
+<li><a class="nav " href="../visparigi/izkartojums.php.html">Izkārtojums</a></li>
+<li><a class="nav " href="../visparigi/krasas.php.html">Krāsas</a></li>
+<li><a class="nav " href="../visparigi/tipografija.php.html">Teksti</a></li>
+<li><a class="nav " href="../visparigi/ikonas.php.html">Ikonas</a></li>
+</ul>
+</li>
+<li class="has-children">
+<span data-bs-toggle="collapse" data-bs-target="#komponentes" class="active" aria-expanded="false"><i class="bi bi-puzzle"></i>
+<txt>Komponentes</txt>
+</span>
+<ul id="komponentes" class="collapse show" data-bs-parent="#menu">
+<li><a class="nav " href="index.htm">Par komponentēm</a></li>
+<li class="has-children"><a class="nav " href="akordeoni.php.html">Akordeoni</a></li>
+<li class="has-children"><a class="nav " href="attelu-paraksti.php.html">Attēlu paraksti</a></li>
+<li class="has-children"><a class="nav " href="birkas.php.html">Birkas</a></li>
+<li class="has-children"><a class="nav " href="datu-ievades-ieteikumi.php.html">Datu ievades ieteikumi</a></li>
+<li class="has-children"><a class="nav " href="datu-ievades-laukums.php.html">Datu ievades laukums</a></li>
+<li class="has-children"><a class="nav " href="formas.php.html">Formas</a></li>
+<li class="has-children"><a class="nav " href="navigacija.php.html">Galvenā navigācija</a></li>
+<li class="has-children"><a class="nav " href="galerijas.php.html">Galerijas</a></li>
+<li class="has-children"><a class="nav " href="galvene.php.html">Galvene</a></li>
+<li class="has-children"><a class="nav " href="izlecosie-logi.php.html">Modālie logi</a></li>
+<li class="has-children"><a class="nav " href="info-lodzini.php.html">Info lodziņi</a></li>
+<li class="has-children"><a class="nav " href="izlecosie-pazinojumi.php.html">Izlecošie paziņojumi</a></li>
+<li class="has-children"><a class="nav " href="izcelts-teksts.php.html">Izcelts teksts</a></li>
+<li class="has-children"><a class="nav active" href="iscelu-poga.php.html">Īsceļu poga</a></li>
+<li class="has-children"><a class="nav " href="kajene.php.html">Kājene</a></li>
+<li class="has-children"><a class="nav " href="kartinas.php.html">Kartiņas</a></li>
+<li class="has-children"><a class="nav " href="koks.php.html">Koka skata navigācija</a></li>
+<li class="has-children"><a class="nav " href="lapu-numeracija.php.html">Lapu numerācija</a></li>
+<li class="has-children"><a class="nav " href="mapes.php.html">Mapes</a></li>
+<li class="has-children"><a class="nav " href="navigacijas-cels.php.html">Navigācijas ceļš</a></li>
+<li class="has-children"><a class="nav " href="pazinojumi.php.html">Paziņojumi</a></li>
+<li class="has-children"><a class="nav " href="padomu-riki.php.html">Padomu rīki</a></li>
+<li class="has-children"><a class="nav " href="pogas.php.html">Pogas</a></li>
+<li class="has-children"><a class="nav " href="progresa-indikatori.php.html">Progresa indikātori</a></li>
+<li class="has-children"><a class="nav " href="raksti.php.html">Raksti</a></li>
+<li class="has-children"><a class="nav " href="saraksti.php.html">Saraksti</a></li>
+<li class="has-children"><a class="nav " href="tabulas.php.html">Tabulas</a></li>
+</ul>
+</li>
+<li class="has-children">
+<span data-bs-toggle="collapse" data-bs-target="#piemeri" class="collapsed" aria-expanded="false"><i class="bi bi-eye"></i>
+<txt>Piemēri</txt>
+</span>
+<ul id="piemeri" class="collapse " data-bs-parent="#menu">
+<li><a class="nav " href="../piemeri/index.htm">Par piemēriem</a></li>
+<li><a class="nav " href="../piemeri/autorizacija.php.html">Autorizācija</a></li>
+<li><a class="nav " href="../piemeri/mana.skola2030.php.html">E-mācību vide</a></li>
+<li><a class="nav " href="../piemeri/mape.skola2030.php.html">mape.skola2030.lv</a></li>
+<li><a class="nav " href="../piemeri/tavaklase.php.html">Tava klase</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+<div class="version">1.0.1 alfa</div>
+</div>
+<div class="mini-menu-button set-cookie" onclick="setCookie('minimenu','on','1')">
+<i class="bi bi-chevron-right"></i> <span>Sakļaut</span>
+</div>
+<div class="mini-menu-button unset-cookie" onclick="setCookie('minimenu','off','1')">
+<i class="bi bi-chevron-right"></i>
+</div>
+</div>
+<div class="active-menu-bg"><i class="ri-close-line"></i></div>
+<header>
+<div class="menu_opener"><i class="bi bi-list"></i></div>
+<div class="app_title">Īsceļu poga</div>
+<div class="top_nav">
+<span class="top_nav_items">
+<a href="#" class="btn btn-link"><i class="bi bi-question-circle"></i></a>
+<a href="#" class="btn btn-link"><i class="bi bi-info-circle"></i></a>
+<a href="#" class="btn btn-link"><i class="bi bi-chat"></i></a>
+<a href="#" class="btn btn-link"><i class="bi bi-bell"></i></a>
+<a href="#" class="btn btn-link"><i class="bi bi-grid-3x3-gap-fill"></i></a>
+</span>
+<div class="account">
+<span>AC</span>
+</div>
+<a href="#" class="btn btn-link dots"><i class="bi bi-three-dots-vertical"></i></a>
+</div>
+</header>
+<div class="content-holder">
+<div class="container">
+<div class="row">
+<div class="col">
+<h1>Īsceļu poga</h1>
+<p>Īsceļu poga ir domāta, lai apvienotu zem vienas izvēlenes vairākas darbības vai vienu. Šī poga ir novietojama ekrānu apakšējā labajā sturī. Īsceļu pogas ikona var tik mainīta pēc nepieciešamības, lai precīzāk atspoguļotu veicamo darbību.</p>
+<div class="bd-example">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78" height="78" viewbox="0 0 78 78">
+<defs>
+<filter id="Ellipse_35" x="0" y="0" width="78" height="78" filterunits="userSpaceOnUse">
+<feoffset dy="3" input="SourceAlpha"></feoffset>
+<fegaussianblur stddeviation="3" result="blur"></fegaussianblur>
+<feflood flood-opacity="0.431"></feflood>
+<fecomposite operator="in" in2="blur"></fecomposite>
+<fecomposite in="SourceGraphic"></fecomposite>
+</filter>
+</defs>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_35)">
+<circle id="Ellipse_35-2" data-name="Ellipse 35" cx="30" cy="30" r="30" transform="translate(9 6)" fill="#804896"></circle>
+</g>
+<path id="Path_3285" data-name="Path 3285" d="M360.1,266.05l-3.784,6.477a8.6,8.6,0,0,1-7.37,4.189h-5.621v4.592h5.621a13.209,13.209,0,0,0,11.32-6.44l3.8-6.5c1.59-2.72,3.751-4.281,5.931-4.281h7.114v-4.591h-7.114c-3.856,0-7.464,2.389-9.9,6.556" transform="translate(-321.321 -234.494)" fill="#fff"></path>
+</svg>
+<br><br>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="76" viewbox="0 0 76 76">
+<defs>
+<filter id="Ellipse_45" x="0" y="0" width="76" height="76" filterunits="userSpaceOnUse">
+<feoffset dy="3" input="SourceAlpha"></feoffset>
+<fegaussianblur stddeviation="3" result="blur"></fegaussianblur>
+<feflood flood-opacity="0.161"></feflood>
+<fecomposite operator="in" in2="blur"></fecomposite>
+<fecomposite in="SourceGraphic"></fecomposite>
+</filter>
+</defs>
+<g id="Group_1654" data-name="Group 1654" transform="translate(-6233 -1175)">
+<g transform="matrix(1, 0, 0, 1, 6233, 1175)" filter="url(#Ellipse_45)">
+<circle id="Ellipse_45-2" data-name="Ellipse 45" cx="29" cy="29" r="29" transform="translate(9 6)" fill="#804896"></circle>
+</g>
+<path id="plus" d="M24.08,17.722H13.771V28.031H10.309V17.722H0V14.34H10.309V4.031h3.463V14.34H24.08Z" transform="translate(6260 1193.969)" fill="#fff"></path>
+</g>
+</svg>
+</div>
+<div class="bd-example">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="595" height="258" viewbox="0 0 595 258">
+<defs>
+<filter id="Ellipse_36" x="517" y="180" width="78" height="78" filterunits="userSpaceOnUse">
+<feoffset dy="3" input="SourceAlpha"></feoffset>
+<fegaussianblur stddeviation="3" result="blur"></fegaussianblur>
+<feflood flood-opacity="0.431"></feflood>
+<fecomposite operator="in" in2="blur"></fecomposite>
+<fecomposite in="SourceGraphic"></fecomposite>
+</filter>
+<filter id="Ellipse_37" x="526" y="120" width="59" height="59" filterunits="userSpaceOnUse">
+<feoffset dy="3" input="SourceAlpha"></feoffset>
+<fegaussianblur stddeviation="3" result="blur-2"></fegaussianblur>
+<feflood flood-opacity="0.431"></feflood>
+<fecomposite operator="in" in2="blur-2"></fecomposite>
+<fecomposite in="SourceGraphic"></fecomposite>
+</filter>
+<filter id="Ellipse_38" x="526" y="60" width="59" height="59" filterunits="userSpaceOnUse">
+<feoffset dy="3" input="SourceAlpha"></feoffset>
+<fegaussianblur stddeviation="3" result="blur-3"></fegaussianblur>
+<feflood flood-opacity="0.431"></feflood>
+<fecomposite operator="in" in2="blur-3"></fecomposite>
+<fecomposite in="SourceGraphic"></fecomposite>
+</filter>
+<filter id="Ellipse_39" x="527" y="0" width="59" height="59" filterunits="userSpaceOnUse">
+<feoffset dy="3" input="SourceAlpha"></feoffset>
+<fegaussianblur stddeviation="3" result="blur-4"></fegaussianblur>
+<feflood flood-opacity="0.431"></feflood>
+<fecomposite operator="in" in2="blur-4"></fecomposite>
+<fecomposite in="SourceGraphic"></fecomposite>
+</filter>
+<filter id="Ellipse_40" x="187" y="180" width="78" height="78" filterunits="userSpaceOnUse">
+<feoffset dy="3" input="SourceAlpha"></feoffset>
+<fegaussianblur stddeviation="3" result="blur-5"></fegaussianblur>
+<feflood flood-opacity="0.431"></feflood>
+<fecomposite operator="in" in2="blur-5"></fecomposite>
+<fecomposite in="SourceGraphic"></fecomposite>
+</filter>
+<filter id="Ellipse_41" x="196" y="120" width="59" height="59" filterunits="userSpaceOnUse">
+<feoffset dy="3" input="SourceAlpha"></feoffset>
+<fegaussianblur stddeviation="3" result="blur-6"></fegaussianblur>
+<feflood flood-opacity="0.431"></feflood>
+<fecomposite operator="in" in2="blur-6"></fecomposite>
+<fecomposite in="SourceGraphic"></fecomposite>
+</filter>
+<filter id="Ellipse_42" x="196" y="60" width="59" height="59" filterunits="userSpaceOnUse">
+<feoffset dy="3" input="SourceAlpha"></feoffset>
+<fegaussianblur stddeviation="3" result="blur-7"></fegaussianblur>
+<feflood flood-opacity="0.431"></feflood>
+<fecomposite operator="in" in2="blur-7"></fecomposite>
+<fecomposite in="SourceGraphic"></fecomposite>
+</filter>
+<filter id="Ellipse_43" x="197" y="0" width="59" height="59" filterunits="userSpaceOnUse">
+<feoffset dy="3" input="SourceAlpha"></feoffset>
+<fegaussianblur stddeviation="3" result="blur-8"></fegaussianblur>
+<feflood flood-opacity="0.431"></feflood>
+<fecomposite operator="in" in2="blur-8"></fecomposite>
+<fecomposite in="SourceGraphic"></fecomposite>
+</filter>
+</defs>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_36)">
+<circle id="Ellipse_36-2" data-name="Ellipse 36" cx="30" cy="30" r="30" transform="translate(526 186)" fill="#804896"></circle>
+</g>
+<path id="Path_3286" data-name="Path 3286" d="M360.1,266.05l-3.784,6.477a8.6,8.6,0,0,1-7.37,4.189h-5.621v4.592h5.621a13.209,13.209,0,0,0,11.32-6.44l3.8-6.5c1.59-2.72,3.751-4.281,5.931-4.281h7.114v-4.591h-7.114c-3.856,0-7.464,2.389-9.9,6.556" transform="translate(195.679 -54.494)" fill="#fff"></path>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_37)">
+<circle id="Ellipse_37-2" data-name="Ellipse 37" cx="20.5" cy="20.5" r="20.5" transform="translate(535 126)" fill="#22a862"></circle>
+</g>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_38)">
+<circle id="Ellipse_38-2" data-name="Ellipse 38" cx="20.5" cy="20.5" r="20.5" transform="translate(535 66)" fill="#f99d35"></circle>
+</g>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_39)">
+<circle id="Ellipse_39-2" data-name="Ellipse 39" cx="20.5" cy="20.5" r="20.5" transform="translate(536 6)" fill="#7a7e83"></circle>
+</g>
+<g id="chat-left-fill" transform="translate(547.011 17.431)">
+<path id="Path_3287" data-name="Path 3287" d="M2.372,0A2.372,2.372,0,0,0,0,2.372V17.545a.593.593,0,0,0,1.013.419L4.4,14.58a1.186,1.186,0,0,1,.839-.347h11.37a2.372,2.372,0,0,0,2.372-2.372V2.372A2.372,2.372,0,0,0,16.605,0Z" fill="#fff" fill-rule="evenodd"></path>
+</g>
+<path id="plus" d="M18.248,14.407H10.436v7.812H7.812V14.407H0V11.843H7.812V4.031h2.624v7.812h7.812Z" transform="translate(546.484 133.5)" fill="#fff"></path>
+<path id="pluscodes" d="M1.84,10.441A1.845,1.845,0,1,1,3.681,8.6a1.842,1.842,0,0,1-1.84,1.844ZM8.613,3.747A1.845,1.845,0,1,1,10.453,1.9a1.842,1.842,0,0,1-1.84,1.845Zm6.681,6.695A1.845,1.845,0,1,1,17.134,8.6a1.842,1.842,0,0,1-1.84,1.844Zm-4.84,4.851a1.841,1.841,0,1,1-1.84-1.845,1.842,1.842,0,0,1,1.84,1.845m-1.84-4.851A1.845,1.845,0,1,1,10.453,8.6a1.842,1.842,0,0,1-1.84,1.844Z" transform="translate(547.599 78.582)" fill="#fff"></path>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_40)">
+<circle id="Ellipse_40-2" data-name="Ellipse 40" cx="30" cy="30" r="30" transform="translate(196 186)" fill="#804896"></circle>
+</g>
+<path id="Path_3288" data-name="Path 3288" d="M360.1,266.05l-3.784,6.477a8.6,8.6,0,0,1-7.37,4.189h-5.621v4.592h5.621a13.209,13.209,0,0,0,11.32-6.44l3.8-6.5c1.59-2.72,3.751-4.281,5.931-4.281h7.114v-4.591h-7.114c-3.856,0-7.464,2.389-9.9,6.556" transform="translate(-134.321 -54.494)" fill="#fff"></path>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_41)">
+<circle id="Ellipse_41-2" data-name="Ellipse 41" cx="20.5" cy="20.5" r="20.5" transform="translate(205 126)" fill="#22a862"></circle>
+</g>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_42)">
+<circle id="Ellipse_42-2" data-name="Ellipse 42" cx="20.5" cy="20.5" r="20.5" transform="translate(205 66)" fill="#f99d35"></circle>
+</g>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_43)">
+<circle id="Ellipse_43-2" data-name="Ellipse 43" cx="20.5" cy="20.5" r="20.5" transform="translate(206 6)" fill="#7a7e83"></circle>
+</g>
+<g id="chat-left-fill-2" data-name="chat-left-fill" transform="translate(217.011 17.432)">
+<path id="Path_3287-2" data-name="Path 3287" d="M2.372,0A2.372,2.372,0,0,0,0,2.372V17.545a.593.593,0,0,0,1.013.419L4.4,14.58a1.186,1.186,0,0,1,.839-.347h11.37a2.372,2.372,0,0,0,2.372-2.372V2.372A2.372,2.372,0,0,0,16.605,0Z" fill="#fff" fill-rule="evenodd"></path>
+</g>
+<path id="plus-2" data-name="plus" d="M18.248,14.407H10.436v7.812H7.812V14.407H0V11.843H7.812V4.031h2.624v7.812h7.812Z" transform="translate(216.484 133.5)" fill="#fff"></path>
+<path id="pluscodes-2" data-name="pluscodes" d="M1.84,10.441A1.845,1.845,0,1,1,3.681,8.6a1.842,1.842,0,0,1-1.84,1.844ZM8.613,3.747A1.845,1.845,0,1,1,10.453,1.9a1.842,1.842,0,0,1-1.84,1.845Zm6.681,6.695A1.845,1.845,0,1,1,17.134,8.6a1.842,1.842,0,0,1-1.84,1.844Zm-4.84,4.851a1.841,1.841,0,1,1-1.84-1.845,1.842,1.842,0,0,1,1.84,1.845m-1.84-4.851A1.845,1.845,0,1,1,10.453,8.6a1.842,1.842,0,0,1-1.84,1.844Z" transform="translate(217.599 78.582)" fill="#fff"></path>
+<text id="Diskutēt_ar_palīdzības_dienestu" data-name="Diskutēt ar palīdzības dienestu" transform="translate(0 32)" font-size="14"><tspan x="0" y="0">Diskutēt ar palīdzības dienestu</tspan></text>
+<text id="Kaut_kāda_darbība" data-name="Kaut kāda darbība" transform="translate(78 94)" font-size="14"><tspan x="0" y="0">Kaut kāda darbība</tspan></text>
+<text id="Pievienot_materiālu" data-name="Pievienot materiālu" transform="translate(71 152)" font-size="14"><tspan x="0" y="0">Pievienot materiālu</tspan></text>
+</svg>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<img src="../images/europe-fonds.png">
+</footer>
+</body>
+<script src="../jquery-3.6.0.min.js" crossorigin="anonymous"></script>
+<script src="../npm/%40popperjs/core%402.9.2/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+<script src="../npm/bootstrap%405.0.1/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
+<script src="../fancybox/dist/jquery.fancybox.min.js"></script>
+<script>
+
+
+
+var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+var tooltipList = tooltipTriggerList.map(function(tooltipTriggerEl) {
+    return new bootstrap.Tooltip(tooltipTriggerEl)
+});
+var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+var popoverList = popoverTriggerList.map(function(popoverTriggerEl) {
+    return new bootstrap.Popover(popoverTriggerEl);
+});
+$(".mini-menu-button").click(function(e) {
+    //e.preventDefault();
+    $("body").toggleClass("mini-menu");
+});
+$(".mini-menu-button.set-cookie").click(function(e) {
+    //e.preventDefault();
+    $(".has-children span.active").next().removeClass("show");
+});
+$(".mini-menu-button.unset-cookie").click(function(e) {
+    //e.preventDefault();
+    $(".has-children span.active").next().addClass("show");
+});
+
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires=" + d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+function checkCookie() {
+    var user = getCookie("minimenu");
+    if (user == "on") {
+        $("body").addClass("mini-menu");
+    }
+    /*else {
+        user = prompt("Please enter your name:", "");
+        if (user != "" && user != null) {
+            setCookie("username", user, 30);
+        }
+    }*/
+}
+
+$(function(){
+$('.mini-menu-button').click(function(){
+$('body').toggleClass('transformer');
+setTimeout(function() {
+$('body').removeClass('transformer');
+}, 1000);
+});
+});
+
+/*
+$(document).click(function(e) {
+	if (!$(e.target).is('.mini-menu')) {
+    	$('.show').collapse('hide');
+    }
+});*/
+
+
+$(".mini-menu").click(function() {
+
+//  $("span").attr('aria-expanded', true).setAttribute('aria-expanded', 'false');
+$(".show").prev().attr('aria-expanded', 'false').toggleClass("collapsed");
+$(".show").toggleClass("show");
+});
+
+
+
+$(".menu_opener").click(function() {
+  $("body").toggleClass("mobmenu");
+
+  });
+
+  $(".active-menu-bg").click(function()  {
+    $("body").toggleClass("mobmenu");
+
+    });
+
+
+
+$(".left_menu").scroll(function() {
+  sessionStorage.scrollTop = $(this).scrollTop();
+});
+
+$(document).ready(function() {
+  if (sessionStorage.scrollTop != "undefined") {
+    $(".left_menu").scrollTop(sessionStorage.scrollTop);
+  }
+});
+
+
+
+
+
+</script>
+</html>
